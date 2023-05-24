@@ -67,6 +67,7 @@ typings/
 
 # Optional npm cache directory
 .npm
+.npmrc
 
 # Optional eslint cache
 .eslintcache
@@ -143,3 +144,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+node_modules

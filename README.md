@@ -14,6 +14,8 @@ Deploy an Express server that implements [Basic Authentication](https://en.wikip
 
 any user that has successfully logged in using basic authentication (username and password) is able to continuously authenticate … using a “token”
 
+![LAB 7 UML](assets/Lab7.png)
+
 ### Links and Resources
 
 [Github Actions](https://github.com/ShadowDraco/bearer-auth/actions)
